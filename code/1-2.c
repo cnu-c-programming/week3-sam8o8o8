@@ -1,5 +1,8 @@
 #include <stdio.h>
 
+void print();
+int square(int n);
+
 void print() {
     printf("Welcome to Computer Programing 03 Lab!\n");
 }
